@@ -1,6 +1,7 @@
 import streamlit as st
 import re
 import pickle
+import spacy
 from bs4 import BeautifulSoup
 
 
